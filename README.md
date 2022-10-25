@@ -1,0 +1,1 @@
+link for inspiration: https://parall.ax/products/jspdf
